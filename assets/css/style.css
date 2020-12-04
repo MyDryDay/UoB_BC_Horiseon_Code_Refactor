@@ -12,7 +12,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Applies styling to any element with the .header class */
+/* Applies styling to the header & navigation menu */
 
 .header {
     padding: 20px;
@@ -21,20 +21,14 @@ body {
     color: #ffffff;
 }
 
-/* Applies styling to the h1 element */
-
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Applies styling to any element with the .seo class */
-
 .seo {
     color: #d9dcd6;
 } 
-
-/* Applies styling to the nav element */
 
 nav {
     padding-top: 15px;
@@ -44,27 +38,21 @@ nav {
     font-size: 20px;
 }
 
-/* Applies styling to the ul elements */
-
 ul {
     list-style-type: none;
 }
-
-/* Applies styling to the li elements */
 
 li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Applies styling to the a elements */
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* Applies styling to any element with the .bannerimg class */
+/* Applies styling to the background image */
 
 .bannerimg {
     height: 800px;
@@ -75,16 +63,13 @@ a {
     background-position: center;
 }
 
-/* Applies styling to any element with the .content class */
+/* Applies styling to the main portion of the website */
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
-/* Applies styling to any elements with the following classes:
-   .search-engine-optimization, .online-reputation-management, .social-media-marketing  */
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
@@ -95,16 +80,12 @@ a {
     color: #ffffff;
 }
 
-/* Applies styling to any elements with the .float-left class */
-
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 250px;
     max-width: 313px;
 }
-
-/* Applies styling to any element with the .float-right class */
 
 .float-right {
     float: right;
@@ -113,20 +94,16 @@ a {
     max-width: 313px;
 }
 
-/* Applies styling to the h2 elements */
-
 h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* Applies styling to the p elements */
-
 p {
     font-size: 16px;
 }
 
-/* Applies styling to any elements with the .benefits class */
+/* Applies styling to the aside portion of the website */
 
 .benefits {
     margin-right: 20px;
@@ -140,23 +117,16 @@ p {
     margin-bottom: 10px;
 }
 
-/* Applies styling to any elements with the following classes:
-   .benefit-lead, .benefit-brand, .benefit-cost  */
-
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
     text-align: left;
 }
 
-/* Applies styling to the h3 elements */
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* Applies styling to any elements with the .img class */
 
 .img {
     display: block;
@@ -164,7 +134,7 @@ h3 {
     max-width: 150px;
 }
 
-/* Applies styling to any element with the .footer class */
+/* Applies styling to the footer portion of the website */
 
 .footer {
     padding: 30px;
@@ -173,8 +143,6 @@ h3 {
     text-align: center;
     display: none;
 }
-
-/* Applies styling to the h4 elements */
 
 h4 {
     font-size: 20px;
